@@ -1,5 +1,6 @@
 # BotRestartPythonFile
 Telegram Bot для управления процессом запуска файла другого python. 
+Бот позволяет запускать файл Python, закрывать его и перезапускать.
 
 # Необходимые библиотеки
 <code>pip install aiogram</code>
